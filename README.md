@@ -1,13 +1,15 @@
 # serenity-browserstack-appium
 
-[Serenity](http://www.thucydides.info/docs/serenity/) Integration with BrowserStack and Appium.
+
+
+![Serenity BDD](https://github.com/serenity-bdd/serenity-core/raw/master/docs/serenity-bdd-logo.png?h=100)
 
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png)
 
 ![Appium](https://i0.wp.com/learn-automation.com/wp-content/uploads/2015/12/Appium.png?h=100) 
 
-![Serenity BDD](https://github.com/serenity-bdd/serenity-core/raw/master/docs/serenity-bdd-logo.png?h=100)
+[Serenity](http://www.thucydides.info/docs/serenity/) Integration with BrowserStack and Appium.
 
 ## Setup
 * Clone the repo
